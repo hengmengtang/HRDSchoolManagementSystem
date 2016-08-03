@@ -1,4 +1,4 @@
-package org.khmeracademy.smg_btb;
+package org.khmeracademy.smg_btb.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

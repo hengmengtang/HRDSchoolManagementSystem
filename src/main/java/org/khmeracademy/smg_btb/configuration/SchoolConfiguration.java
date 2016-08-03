@@ -1,4 +1,4 @@
-package org.khmeracademy.smg_btb;
+package org.khmeracademy.smg_btb.configuration;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;
